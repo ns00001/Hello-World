@@ -1,2 +1,3 @@
 # Hello-World
-# I am beginner
+Hi
+I am beginner
